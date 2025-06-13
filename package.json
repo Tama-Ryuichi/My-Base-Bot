@@ -13,7 +13,7 @@
     "@adiwajshing/keyed-db": "^0.2.4",
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
     "@hapi/boom": "^10.0.0",
-    "@whiskeysockets/baileys": "github:Tama-Ryuichi/Bail-TamaRYC",
+    "@whiskeysockets/baileys": "github:Tama-Ryuichi/bails",
     "awesome-phonenumber": "^2.64.0",
     "axios": "^0.24.0",
     "chalk": "^4.1.2",
